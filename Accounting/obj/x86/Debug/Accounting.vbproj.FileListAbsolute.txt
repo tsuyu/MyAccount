@@ -1,0 +1,67 @@
+E:\Software Development\Muamalat\Accounting\Accounting\bin\Debug\Accounting.exe
+E:\Software Development\Muamalat\Accounting\Accounting\bin\Debug\Accounting.pdb
+E:\Software Development\Muamalat\Accounting\Accounting\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Software Development\Muamalat\Accounting\Accounting\obj\x86\Debug\Accounting.MainForm.resources
+E:\Software Development\Muamalat\Accounting\Accounting\obj\x86\Debug\Accounting.vbproj.GenerateResource.Cache
+E:\Software Development\Muamalat\Accounting\Accounting\obj\x86\Debug\Accounting.exe
+E:\Software Development\Muamalat\Accounting\Accounting\obj\x86\Debug\Accounting.pdb
+E:\Software Development\Muamalat\Accounting\Accounting\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Software Development\Muamalat\Accounting\Accounting\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Software Development\Muamalat\Accounting\Accounting\obj\x86\Debug\Accounting.vbproj.ResolveComReference.cache
+E:\Software Development\Muamalat\Accounting\Accounting\obj\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\Software Development\Muamalat\Accounting\Accounting\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Software Development\Muamalat\Accounting\Accounting\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\Software Development\Muamalat\Accounting\Accounting\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\Software Development\Muamalat\Accounting\Accounting\obj\x86\Debug\Accounting.KemaskiniAkaun.resources
+E:\Software Development\Muamalat\Backup\Accounting(21-03-2011)-1\Accounting\bin\Debug\Accounting.exe
+E:\Software Development\Muamalat\Backup\Accounting(21-03-2011)-1\Accounting\bin\Debug\Accounting.pdb
+E:\Software Development\Muamalat\Backup\Accounting(21-03-2011)-1\Accounting\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Software Development\Muamalat\Backup\Accounting(21-03-2011)-1\Accounting\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Software Development\Muamalat\Backup\Accounting(21-03-2011)-1\Accounting\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\Software Development\Muamalat\Backup\Accounting(21-03-2011)-1\Accounting\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Software Development\Muamalat\Backup\Accounting(21-03-2011)-1\Accounting\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Software Development\Muamalat\Backup\Accounting(21-03-2011)-1\Accounting\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\Software Development\Muamalat\Backup\Accounting(21-03-2011)-1\Accounting\obj\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\Software Development\Muamalat\Backup\Accounting(21-03-2011)-1\Accounting\obj\x86\Debug\Accounting.vbproj.ResolveComReference.cache
+E:\Software Development\Muamalat\Backup\Accounting(21-03-2011)-1\Accounting\obj\x86\Debug\Accounting.KemaskiniAkaun.resources
+E:\Software Development\Muamalat\Backup\Accounting(21-03-2011)-1\Accounting\obj\x86\Debug\Accounting.MainForm.resources
+E:\Software Development\Muamalat\Backup\Accounting(21-03-2011)-1\Accounting\obj\x86\Debug\Accounting.vbproj.GenerateResource.Cache
+E:\Software Development\Muamalat\Backup\Accounting(21-03-2011)-1\Accounting\obj\x86\Debug\Accounting.exe
+E:\Software Development\Muamalat\Backup\Accounting(21-03-2011)-1\Accounting\obj\x86\Debug\Accounting.pdb
+E:\Software Development\Muamalat\New After Backup\Accounting\bin\Debug\Accounting.exe
+E:\Software Development\Muamalat\New After Backup\Accounting\bin\Debug\Accounting.pdb
+E:\Software Development\Muamalat\New After Backup\Accounting\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Software Development\Muamalat\New After Backup\Accounting\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\Software Development\Muamalat\New After Backup\Accounting\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\Software Development\Muamalat\New After Backup\Accounting\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Software Development\Muamalat\New After Backup\Accounting\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\Software Development\Muamalat\New After Backup\Accounting\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+E:\Software Development\Muamalat\New After Backup\Accounting\obj\x86\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\Software Development\Muamalat\New After Backup\Accounting\obj\x86\Debug\Accounting.vbproj.ResolveComReference.cache
+E:\Software Development\Muamalat\New After Backup\Accounting\obj\x86\Debug\Accounting.KemaskiniAkaun.resources
+E:\Software Development\Muamalat\New After Backup\Accounting\obj\x86\Debug\Accounting.MainForm.resources
+E:\Software Development\Muamalat\New After Backup\Accounting\obj\x86\Debug\Accounting.vbproj.GenerateResource.Cache
+E:\Software Development\Muamalat\New After Backup\Accounting\obj\x86\Debug\Accounting.exe
+E:\Software Development\Muamalat\New After Backup\Accounting\obj\x86\Debug\Accounting.pdb
+E:\Software Development\Muamalat\New After Backup\Accounting\obj\x86\Debug\Accounting.KemaskiniWangKeluar.resources
+E:\Software Development\Muamalat\New After Backup\Accounting\obj\x86\Debug\Accounting.KemaskiniWangMasuk.resources
+D:\ump\New After Backup\Accounting\bin\Debug\Accounting.exe.config
+D:\ump\New After Backup\Accounting\bin\Debug\Accounting.exe
+D:\ump\New After Backup\Accounting\bin\Debug\Accounting.pdb
+D:\ump\New After Backup\Accounting\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\ump\New After Backup\Accounting\bin\Debug\MySql.Data.dll
+D:\ump\New After Backup\Accounting\bin\Debug\MySqlBackup.dll
+D:\ump\New After Backup\Accounting\bin\Debug\Microsoft.Office.Interop.Word.xml
+D:\ump\New After Backup\Accounting\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\ump\New After Backup\Accounting\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\ump\New After Backup\Accounting\obj\x86\Debug\Accounting.vbprojResolveAssemblyReference.cache
+D:\ump\New After Backup\Accounting\obj\x86\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\ump\New After Backup\Accounting\obj\x86\Debug\Interop.Microsoft.Office.Core.dll
+D:\ump\New After Backup\Accounting\obj\x86\Debug\Accounting.vbproj.ResolveComReference.cache
+D:\ump\New After Backup\Accounting\obj\x86\Debug\Accounting.KemaskiniAkaun.resources
+D:\ump\New After Backup\Accounting\obj\x86\Debug\Accounting.KemaskiniWangKeluar.resources
+D:\ump\New After Backup\Accounting\obj\x86\Debug\Accounting.KemaskiniWangMasuk.resources
+D:\ump\New After Backup\Accounting\obj\x86\Debug\Accounting.MainForm.resources
+D:\ump\New After Backup\Accounting\obj\x86\Debug\Accounting.vbproj.GenerateResource.Cache
+D:\ump\New After Backup\Accounting\obj\x86\Debug\Accounting.exe
+D:\ump\New After Backup\Accounting\obj\x86\Debug\Accounting.pdb
